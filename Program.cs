@@ -12,7 +12,7 @@ names = new string[4];
 // storing items at index positions
 names[0] = "Kate";
 names[1] = "Jack ";
-names[2] = "Rebecca ";
+names[2] = "Rebecca";
 names[3] = "Connor ";
 
 string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Connor" };
